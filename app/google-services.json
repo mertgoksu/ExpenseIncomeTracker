@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412691607319",
+    "project_id": "gelir-gider-takip-5d091",
+    "storage_bucket": "gelir-gider-takip-5d091.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412691607319:android:efa298732d0cd7e8b65152",
+        "android_client_info": {
+          "package_name": "com.mertg.gelirgidertakip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-JVHJD15Yiu8PmbqxHQqN1txhB0EcPiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
