@@ -76,9 +76,10 @@ dependencies {
     implementation("com.google.firebase:firebase-auth-ktx")
     implementation("com.google.firebase:firebase-firestore-ktx")
     implementation("com.google.firebase:firebase-analytics")
-//    implementation ("com.google.firebase:firebase-storage-ktx")
 
+    //Basic Anim
     implementation ("androidx.compose.animation:animation:1.6.7")
 
+    //Icons Extended
     implementation("androidx.compose.material:material-icons-extended")
 }
